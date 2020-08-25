@@ -2,7 +2,8 @@
 using namespace std;
 
 int main()
-{
+{   
+    int i = 0;
     string str;
     //Input the entire line as string
     getline(cin, str);
